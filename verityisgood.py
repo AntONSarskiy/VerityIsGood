@@ -1,7 +1,7 @@
 from PIL import Image, ImageGrab, ImageDraw
 from pydirectinput import press, moveTo, click
 from pygetwindow import getWindowsWithTitle
-from time import sleep, time
+from time import sleep
 from sys import exit
 from os import startfile
 
